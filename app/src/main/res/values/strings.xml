@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidAppProjectNum2</string>
+    <string name="name">Android App Project #2\nBy Daniel Bickel II</string>
+    <string name="greet_sbvc">Greet SBVC</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="log_in">Log In!</string>
+    <string name="user_hint">Username Hint</string>
+    <string name="pass_hint">Password Hint</string>
+</resources>
